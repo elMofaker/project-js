@@ -1,0 +1,23 @@
+:root
+{
+    display: inline-block;
+}
+/* nav start */
+nav form input{
+    
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 5px 15px;
+    font-size: 16px;
+    border: none;
+    box-shadow: 0 0 15px -9px black;
+    
+}
+nav form input:focus{
+    outline: none;
+}
+nav span{
+    font-size: 15px; 
+    padding: 7px;
+}
+/* nav end */
